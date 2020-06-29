@@ -1,4 +1,4 @@
-# Akina App (formerly Project Hestia)
+# Akina App 
 <div align="justify">
 A project aimed at fighting the novel coronavirus. Akina is your one-stop to get the latest updates from the World Health Organisation, to request for anything that you need and let the community help you. Akina aims to aid people by bringing them a platform to elevate individuals to become a community. You can also see NGOs around you and view covid 19 stats - Worldwide and country-wise.
 </div>
