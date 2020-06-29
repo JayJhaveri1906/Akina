@@ -35,6 +35,11 @@ Made with 💙 with [Flutter](https://flutter.dev/)
 <img src="https://raw.githubusercontent.com/BRO3886/Akina/master/screenshots/news_feed.gif?token=AJQCPIQPUPHTEN2KI57PGBK7ALZB2" height="653">
 
 
+**Explore**
+
+![explore](https://raw.githubusercontent.com/BRO3886/Akina/master/screenshots/explore_section.gif?token=AJQCPIWCJV5356GYXFDAVKS7AL3NA)
+
+
 **Stats**
 
 ![Stats](https://raw.githubusercontent.com/BRO3886/Akina/master/screenshots/stats.gif?token=AJQCPIQFIZPLCC5NJSKHEPS7ALZ4K)
